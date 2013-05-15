@@ -1,0 +1,16 @@
+{
+  "name": "Jarvis",
+  "subdomain": "testjarvis",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "version": "0.0.1-13",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "express": "3.x",
+    "jade": "*"
+  }
+}
