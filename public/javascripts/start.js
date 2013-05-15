@@ -1,4 +1,4 @@
-var socket = io.connect('http://testjarvis.jit.su/');
+var socket = io.connect('http://jarvis-tediris.rhcloud.com/');
 var query = "";
 
 socket.on('success', function (data) {
